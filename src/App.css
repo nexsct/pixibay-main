@@ -1,0 +1,61 @@
+.textAlignCenter {
+    text-align: center;
+}
+
+.floatCenter,
+.pagination {
+    justify-content: center !important;
+ }
+
+.modalFull  {
+    min-width: 100%;
+    min-height: 100%;
+    margin: 0;
+}
+
+.modalFull .modal-content {
+    min-height: 100vh;
+}
+
+
+
+html {
+    position: relative;
+    min-height: 100%;
+  }
+ body {
+    margin-bottom: 80px; 
+ }
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px; 
+    line-height: 60px; 
+    background-color: #f5f5f5;
+}
+
+
+
+.react-photo-gallery--gallery {
+    background-color: #f0f0f0;
+}
+
+.react-photo-gallery--gallery img { 
+    border: 1px solid rgb(190, 190, 190);
+}
+
+.react-photo-gallery--gallery img:hover {
+    cursor: pointer;
+}
+
+.error404 {
+    
+    text-align: center;
+}
+
+.error404 h1 { font-size: 5rem; margin-top: 25%; font-family: 'Leckerli One', cursive;}
+.error404 h2 { font-size: 1rem; margin: 20px 0px 0px 0px;}
+ .error404 a { font-size: 1rem; }
+
+ .dimension404 { display: block; margin-top: 100px;}

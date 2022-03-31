@@ -1,4 +1,5 @@
 This project is using ReactJS to fetch images from PIXABAY
+preview : https://pixibay-gallery.vercel.app/
 
  following modules are used:
 react-router
@@ -14,7 +15,6 @@ For use of Pixabay API you need to request free API key from their wesite, and c
 REACT_APP_PIXABAY_API_KEY   =   xxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxx
 
 
-More about [Pixabay API](https://pixabay.com/api/docs/)
 
 
 
